@@ -1,2 +1,3 @@
-# dotfiles
-My personal dotfiles for macOS
+# Dotfiles
+
+🚧 Work in progress...
